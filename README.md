@@ -41,7 +41,7 @@
            </fieldset>
            <fieldset>     
                 <h1 style="text-align:center;">Undertaking</h1>                     
-      I,Mr/Mrs/Ms <input type="text"> have read and understand the admission procedure of RBNB collage shrirampur
+      I,Mr/Mrs/Ms <input type="text"> have read and understand the admission procedure of PVP collage Loni
             and I agree to follow it.I understand that false representation of fact and/or canvassing for admission to the collage, in any form
       ,monetary or otherwise, will lead to disqualification of this application form for admission now,or any time in future.I understand 
       to respect the collage  philosopy and what it stand for. I will also abide by rules of the collage.if admission is granted to my child<br> <br>
